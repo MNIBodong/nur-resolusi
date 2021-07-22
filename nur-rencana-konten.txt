@@ -4,6 +4,7 @@ RENCANA KONTEN NUR
   * ES6
   * Framework Js
    ^ Veu
+   ^ React
 - Struktur Data Dasar
 - PHP frameworks
  * Laravel
