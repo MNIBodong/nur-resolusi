@@ -3,7 +3,9 @@ RENCANA KONTEN NUR
 - Javascript
   * ES6
   * Framework Js
-- Struktur Data Dasar
+   ^ Angular
+   ^ React
 - PHP frameworks
+ ^ Laravel
 - Interview
 - Vlog
