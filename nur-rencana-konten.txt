@@ -1,0 +1,6 @@
+RENCANA KONTEN NUR
+
+- Javascript
+- PHP frameworks
+- Interview
+- Vlog
